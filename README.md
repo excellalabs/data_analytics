@@ -1,1 +1,1 @@
-This is a repo to share and collaborate work related to Excella Labs and its Data & Analytics work. 
+This is a repo to share and collaborate on Data & Analytics projects. 
